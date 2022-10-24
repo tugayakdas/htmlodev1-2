@@ -1,2 +1,1 @@
-# bilgi
-# ilk çalışmam basit yapıda ve anlaşılır durumda
+# html ödev 2
